@@ -1,5 +1,14 @@
 # Hi there, I'm Ben👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin2602&show_icons=true&theme=radical)
+
+🌱 I’m currently learning Reactjs and Nextjs
+<br>
+📫 How to reach me: https://www.linkedin.com/in/benjamin-samuel-173a00222/
+
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Benjamin2602&show_icons=true&theme=radical"/>
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin2602&layout=compact"/>
+
 
 <!--
 **Benjamin2602/Benjamin2602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
