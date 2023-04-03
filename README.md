@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamin2602&label=Profile%20views&color=0e75b6&style=flat" alt="benjamin2602" /> </p>
 
-- 🔭 I’m currently working on **IInternetMovieDatabase-Nextjs**
+- 🔭 I’m currently working on **InternetMovieDatabase-Nextjs**
 
 - 🌱 I’m currently learning **Reactjs/Nextjs**
 
