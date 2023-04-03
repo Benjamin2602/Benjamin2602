@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there, I'm Ben👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Benjamin2602&show_icons=true&theme=radical)
 
 <!--
 **Benjamin2602/Benjamin2602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
