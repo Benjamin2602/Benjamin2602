@@ -1,5 +1,7 @@
 # 💫Hey there I am ben!
 🔭 I’m currently working on Internet Movie Database -nextjs<br>🌱 I’m currently learning Reactjs and next js<br>💬 Ask me about Frontend , Football
+<br>
+[![](https://visitcount.itsvg.in/api?id=Benjamin2602&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -22,6 +24,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Benjamin2602&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Benjamin2602&icon=0&color=12)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
