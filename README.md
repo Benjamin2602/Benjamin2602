@@ -15,16 +15,24 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Benjamin2602&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false"/>
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin2602&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+<br/>
 <img align="left" width="47%" src="https://github-contributor-stats.vercel.app/api?username=Benjamin2602&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
+<br/>
+
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Benjamin2602&theme=highcontrast&hide_border=false"/>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Benjamin2602&theme=highcontrast&hide_border=false)
 <br/>
 <br/>
 <br/>
+<!-- <br/>
+<br/>
+<br/>
+<br/> -->
 
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote -->
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
