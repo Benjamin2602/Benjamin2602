@@ -1,6 +1,6 @@
 # 💫Hey there I am ben!
 
-🔭 I’m currently working on Nextjs<br>🌱 I’m currently learning React Redux <br>💬 Ask me about Frontend , Football
+🔭 I’m currently working on improving my Frontend skills <br>🌱 I’m currently learning React Hooks and context <br>💬 Ask me about Frontend , Football
 <br/>
 [![](https://visitcount.itsvg.in/api?id=Benjamin2602&icon=0&color=12)](https://visitcount.itsvg.in)
 
