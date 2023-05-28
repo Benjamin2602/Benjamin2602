@@ -1,6 +1,6 @@
 # 💫Hey there I am ben!
 
-🔭 I’m currently working on improving my Frontend skills <br>🌱 I’m currently learning nextjs and Typescript <br>💙 I am currently looking to contribute on open source <br>💬 Ask me about Frontend , Football
+🔭 I’m currently working on improving my Frontend skills <br>🌱 I’m currently learning Javascript and TypeScript and Responsive design <br>💙 I am currently looking to contribute on open source <br>💬 Ask me about Frontend , Football
 <br/>
 [![](https://visitcount.itsvg.in/api?id=Benjamin2602&icon=0&color=12)](https://visitcount.itsvg.in)
 
