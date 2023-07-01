@@ -12,13 +12,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Benjamin2602&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false"/>
+
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamin2602&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 
 <br/>
-<img align="left" width="47%" src="https://github-contributor-stats.vercel.app/api?username=Benjamin2602&limit=5&theme=algolia&combine_all_yearly_contributions=true"/>
-<br/>
+
 
 <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Benjamin2602&theme=highcontrast&hide_border=false"/>
 
