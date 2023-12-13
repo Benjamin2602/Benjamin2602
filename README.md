@@ -1,6 +1,6 @@
 # 💫Hey there I am ben!
 
-🔭 I’m currently working on improving my backend skills <br>🌱 I’m currently learning PERN stack and DSA <br>💙 I am currently looking to contribute on open source <br>💬 Ask me about webDev , Football
+🔭 I’m currently working on improving my backend skills <br>🌱 I’m currently learning Docker and DSA <br>💙 I am currently looking to contribute on open source <br>💬 Ask me about webDev , Football
 <br/>
 [![](https://visitcount.itsvg.in/api?id=Benjamin2602&icon=0&color=12)](https://visitcount.itsvg.in)
 
