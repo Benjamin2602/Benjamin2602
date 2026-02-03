@@ -1,6 +1,6 @@
 # 💫Hey there I am ben!
 
-🔭 I’m currently working on improving my knowledge on cloud and DevOps <br>💬 Ask me about webDev , Football
+🔭 I’m currently working on improving my knowledge on cloud and learning German <br>💬 Ask me about webDev , cloud ,  Football
 <br/>
 [![](https://visitcount.itsvg.in/api?id=Benjamin2602&icon=0&color=12)](https://visitcount.itsvg.in)
 
